@@ -1,7 +1,5 @@
 # 👋 Hi there!
 
-I'm a web developer with experience in WordPress, React (Ant Design), and Fullstack development. I enjoy building user-friendly websites and scalable web applications.
-
 ---
 
 ## 🌐 Portfolio
