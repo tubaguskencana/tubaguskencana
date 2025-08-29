@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**tubaguskencana/tubaguskencana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer with experience in WordPress, React (Ant Design), and Fullstack development. I enjoy building user-friendly websites and scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+
+### 🟠 WordPress Projects:
+- [Hair Transplant Bali](http://hairtransplantbali.com/)
+- [Graft Lab Asia – Jakarta](https://graftlabasia.com/jakarta/hair/)
+- [Tanam Rambut Indonesia – Best Hair Transplant Clinic](https://tanamrambutindonesia.com/best-hair-transplant-clinic-di-indonesia-lp)
+- [Jakarta Hair Transplant Centre](https://jakartahairtransplantcentre.com/)
+
+### 🔵 React + Ant Design:
+- [SCM Dashboard](https://scm.sig.id/)
+
+### 🟢 Fullstack Projects:
+- [PocketPet](https://pocketpet.co/) – API & Admin Dashboard
+- [Klikdis](https://klikdis.com/) – Landing Page, Admin Dashboard & API
+
+---
+
+## 📫 Contact
+
+Feel free to reach out or connect via [LinkedIn](https://linkedin.com/in/tubaguskencana)
