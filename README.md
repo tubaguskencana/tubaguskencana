@@ -1,6 +1,9 @@
-# 👋 Hi there!
+👋 Hi there!
 
-I would like to clarify that I don't only work on the projects listed below. These are the ones I can publicly share, but I have been involved in many other projects as well. Feel free to reach out if you'd like to know more!
+I would like to clarify that I don't only work on the projects listed below.  
+These are the ones I can publicly share, but I have been involved in many other projects as well.  
+Feel free to reach out if you'd like to know more!
+
 ---
 
 ## 🌐 Portfolio
