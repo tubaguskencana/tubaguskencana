@@ -16,8 +16,8 @@ Feel free to reach out if you'd like to know more!
 - [Agincourt Resources](http://agincourtresources.com/)
 
 ### 🟠 WordPress Plugins:
-- [Tiktok Downloader](https://belajarapaaja.net/demo-plugin-tiktok-downloader/)
-- [Slug Generator Online](https://belajarapaaja.net/slug-generator-online/)
+- [Tiktok Downloader](https://github.com/tubaguskencana/plugin-wp-tiktok-downloader)
+- [Slug Generator Online](https://github.com/tubaguskencana/simple-plugin-wordpress-slugify-shortcode)
 
 ### 🔵 React + Tailwind + Ant Design:
 - [SCM Dashboard](https://scm.sig.id/)
