@@ -15,7 +15,7 @@ Feel free to reach out if you'd like to know more!
 - [Jakarta Hair Transplant Centre](https://jakartahairtransplantcentre.com/)
 - [Agincourt Resources](http://agincourtresources.com/)
 
-### 🔵 React + Ant Design:
+### 🔵 React + Tailwind + Ant Design:
 - [SCM Dashboard](https://scm.sig.id/)
 - [Blockforgex Registration](https://belajarapaaja.net/blockforgex/)
 - [Datamorph Landing Page + Dashboard Page](https://belajarapaaja.net/datamorph/)
