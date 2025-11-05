@@ -23,6 +23,7 @@ Feel free to reach out if you'd like to know more!
 - [SCM Dashboard](https://scm.sig.id/)
 - [Blockforgex Registration](https://belajarapaaja.net/blockforgex/)
 - [Datamorph Landing Page + Dashboard Page](https://belajarapaaja.net/datamorph/)
+- [PUBG Mobile THR Event 2023](https://belajarapaaja.net/pubg_mobile/)
 
 ### 🟢 Fullstack Projects:
 - [PocketPet](https://pocketpet.co/) – API & Admin Dashboard
