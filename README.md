@@ -14,7 +14,7 @@ Feel free to reach out if you'd like to know more!
 - [Tanam Rambut Indonesia – Best Hair Transplant Clinic](https://tanamrambutindonesia.com/best-hair-transplant-clinic-di-indonesia-lp)
 - [Jakarta Hair Transplant Centre](https://jakartahairtransplantcentre.com/)
 - [Agincourt Resources](http://agincourtresources.com/)
-- [Aurora Bisnis]](https://aurorabisnis.id/)
+- [Aurora Bisnis](https://aurorabisnis.id/)
 
 ### 🟠 WordPress Plugins:
 - [Tiktok Downloader](https://github.com/tubaguskencana/plugin-wp-tiktok-downloader)
