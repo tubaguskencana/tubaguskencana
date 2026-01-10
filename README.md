@@ -15,6 +15,7 @@ Feel free to reach out if you'd like to know more!
 - [Jakarta Hair Transplant Centre](https://jakartahairtransplantcentre.com/)
 - [Agincourt Resources](http://agincourtresources.com/)
 - [Aurora Bisnis](https://aurorabisnis.id/)
+- [Gudang Properti](http://gudangproperti.info/)
 
 ### 🟠 WordPress Plugins:
 - [Tiktok Downloader](https://github.com/tubaguskencana/plugin-wp-tiktok-downloader)
