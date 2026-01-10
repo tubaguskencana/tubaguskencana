@@ -1,14 +1,14 @@
 👋 Hi there!
 
-I would like to clarify that I don't only work on the projects listed below.  
-These are the ones I can publicly share, but I have been involved in many other projects as well.  
-Feel free to reach out if you'd like to know more!
+These are the projects I’m able to share publicly.
+I’ve also contributed to many other projects that aren’t listed here due to confidentiality.
+Feel free to reach out if you’d like to learn more about my work.
 
 ---
 
 ## 🌐 Portfolio
 
-### 🟠 WordPress Projects:
+### 🟠 WordPress + SEO Projects:
 - [Hair Transplant Bali](http://hairtransplantbali.com/)
 - [Graft Lab Asia – Jakarta](https://graftlabasia.com/jakarta/hair/)
 - [Tanam Rambut Indonesia – Best Hair Transplant Clinic](https://tanamrambutindonesia.com/best-hair-transplant-clinic-di-indonesia-lp)
