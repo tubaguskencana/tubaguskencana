@@ -30,6 +30,7 @@ Feel free to reach out if you’d like to learn more about my work.
 ### 🟢 Fullstack Projects:
 - [PocketPet](https://pocketpet.co/) – API & Admin Dashboard
 - [Klikdis](https://klikdis.com/) – Landing Page, Admin Dashboard & API
+- [Asset Track](http://assettrack.studymorph.com/) - Inventory & Barcode Lifecycle Management System
 
 ---
 
