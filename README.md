@@ -10,10 +10,10 @@ Feel free to reach out if you’d like to learn more about my work.
 
 ### 🟠 WordPress + SEO Projects:
 - [Hair Transplant Bali](http://hairtransplantbali.com/)
+- [Agincourt Resources](http://agincourtresources.com/)
 - [Graft Lab Asia – Jakarta](https://graftlabasia.com/jakarta/hair/)
 - [Tanam Rambut Indonesia – Best Hair Transplant Clinic](https://tanamrambutindonesia.com/best-hair-transplant-clinic-di-indonesia-lp)
 - [Jakarta Hair Transplant Centre](https://jakartahairtransplantcentre.com/)
-- [Agincourt Resources](http://agincourtresources.com/)
 - [Aurora Bisnis](https://aurorabisnis.id/)
 - [Gudang Properti](http://gudangproperti.info/)
 
