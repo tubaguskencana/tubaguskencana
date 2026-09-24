@@ -36,4 +36,4 @@ Feel free to reach out if you’d like to learn more about my work.
 
 ## 📫 Contact
 
-Feel free to reach out or connect via [LinkedIn](https://linkedin.com/in/tubaguskencana)
+Feel free to reach out or connect via [LinkedIn](https://id.linkedin.com/in/tubagus-putra-kencana)
